@@ -1,0 +1,6 @@
+FROM postgres
+
+ENV POSTGRES_USER abc
+ENV POSTGRES_PASSWORD abc123
+ENV POSTGRES_DB cars_database
+COPY cars_db.sql/docker-entrypoint-initdb.d/
