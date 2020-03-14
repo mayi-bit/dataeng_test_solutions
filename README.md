@@ -1,4 +1,4 @@
-# GovTech DataEng test solutions
+# DataEng test solutions
 ## Section 1: Data Pipelines
 ###### Following are the steps for setting up this data pipeline:
 
